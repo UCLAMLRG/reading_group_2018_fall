@@ -41,6 +41,6 @@ Meetings will take place on Fridays at 1-3 PM in **PAB-3-703**. The first hour w
 
 | Date | Topic | Readings | Presenter |
 | --- | --- | --- | --- |
-|2018-10-12|Introductions| [Intro to Machine Learning](http://www.deeplearningbook.org/contents/intro.html)| Tuan & Bernie |
+|2018-10-12|Introductions| [Intro to Machine Learning](https://proquest.safaribooksonline.com/book/programming/9781491962282/1dot-the-machine-learning-landscape/landscape_chapter_html)| Tuan & Bernie |
 |2018-10-19| | | |
 |2018-10-26| | | |
